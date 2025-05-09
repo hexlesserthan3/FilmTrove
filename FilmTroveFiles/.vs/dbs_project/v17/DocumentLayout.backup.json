@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aditi\\source\\repos\\dbs_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|c:\\users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|c:\\users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|c:\\users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|c:\\users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|c:\\users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|c:\\users\\aditi\\source\\repos\\dbs_project\\dbs_project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC95167-C6B1-44D6-AC9F-7695EC24F4FF}|dbs_project\\dbs_project.csproj|solutionrelative:dbs_project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form9.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form9.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form9.cs",
+              "RelativeToolTip": "dbs_project\\Form9.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:51:41.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form8.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form8.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form8.cs",
+              "RelativeToolTip": "dbs_project\\Form8.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:51:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form7.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form7.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form7.cs",
+              "RelativeToolTip": "dbs_project\\Form7.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:50:50.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form6.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form6.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form6.cs",
+              "RelativeToolTip": "dbs_project\\Form6.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:00:19.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form5.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form5.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form5.cs",
+              "RelativeToolTip": "dbs_project\\Form5.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA8wBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:34:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form4.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form4.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form4.cs",
+              "RelativeToolTip": "dbs_project\\Form4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:35:44.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form2.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form2.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form2.cs",
+              "RelativeToolTip": "dbs_project\\Form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:50:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form1.cs",
+              "RelativeDocumentMoniker": "dbs_project\\Form1.cs",
+              "ToolTip": "C:\\Users\\aditi\\source\\repos\\dbs_project\\dbs_project\\Form1.cs",
+              "RelativeToolTip": "dbs_project\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:50:00.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

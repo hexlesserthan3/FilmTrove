@@ -14,3 +14,5 @@ By offering multilingual and multi-platform support, FilmTrove makes it easier f
 across their preferred languages and streaming services. Backed by a relational schema normalized to
 BCNF and developed using Visual Studio with C# and SQLPlus, FilmTrove ensures optimal data
 integrity, performance, and scalability
+
+FilmTrove was made by Siya Rath, Aditi Sinha and Asmita Guha for DBS Lab Project, 2025, in MIT, Manipal.
